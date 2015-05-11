@@ -15,23 +15,31 @@ public final class R {
     }
     public static final class id {
         public static final int buttonProximo=0x7f060002;
+        public static final int buttonVoltar=0x7f060007;
         public static final int editTextNome=0x7f060001;
+        public static final int textView1=0x7f060004;
+        public static final int textView2=0x7f060005;
+        public static final int textView3=0x7f060006;
         public static final int textViewMensagem=0x7f060000;
         public static final int textViewResposta=0x7f060003;
     }
     public static final class layout {
         public static final int activity_tela1=0x7f030000;
+        public static final int activity_tela2=0x7f030001;
     }
     public static final class string {
         public static final int aluno=0x7f040002;
         public static final int app_name=0x7f040000;
-        public static final int botao_ok=0x7f040007;
+        public static final int botao_ok=0x7f040008;
         public static final int botao_proximo=0x7f040006;
+        public static final int botao_voltar=0x7f040007;
         public static final int curso=0x7f040003;
+        public static final int ensino=0x7f04000a;
         public static final int msg=0x7f040004;
         public static final int ola_mundo=0x7f040001;
-        public static final int resposta=0x7f040008;
+        public static final int resposta=0x7f040009;
         public static final int texto_nome=0x7f040005;
+        public static final int titulo=0x7f04000b;
     }
     public static final class style {
         /** 
