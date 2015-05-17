@@ -5,10 +5,9 @@ import android.os.Bundle;
 
 public class Tela3 extends Activity {
 
-  @Override
-  protected void onCreate(Bundle savedInstanceState){
-    super.onCreate(savedInstanceState);
-    setContentView(R.layout.activity_tela3);
+   @Override
+   protected void onCreate(Bundle savedInstanceState) {
+     super.onCreate(savedInstanceState);
+     setContentView(R.layout.scroll_activity_tela3);
    }
-
 }

@@ -1,17 +1,22 @@
 <resources>
 
-  <string name="app_name">Exemplo Treinaweb</string>
-  <string name="ola_mundo">Treinaweb Cursos</string>
-  <string name="aluno">Carlos Santos Silva</string>
-  <string name="curso">Android Básico</string>
-  <string name="msg">Digite seu nome abaixo</string>
-  <string name="texto_nome"></string>
-  <string name="botao_proximo">Próxima Tela</string>
-  <string name="botao_voltar">Voltar</string>
-  <string name="botao_ok">OK</string>
-  <string name="resposta">Resposta:</string>
-  <string name="ensino">Treinaweb Cursos</string>
-  <string name="titulo">Informações do curso</string>
-  <string name="nome">Nome:</string>
+	<string name="app_name">Exemplo Treinaweb</string>
+	<string name="ola_mundo">Treinaweb Cursos</string>
+	<string name="aluno">Carlos Santos Silva</string>
+	<string name="curso">Android Básico</string>
+	<string name="msg">Digite seu nome abaixo</string>
+	<string name="texto_nome"></string>
+	<string name="botao_proximo">Próxima Tela</string>
+	<string name="botao_voltar">Voltar</string>
+	<string name="botao_ok">OK</string>
+	<string name="resposta">Resposta:</string>
+	<string name="ensino">Treinaweb Cursos</string>
+	<string name="titulo">Informações do curso</string>
+	<string name="nome">Nome:</string>
+	<string name="imagem">Logo do Android</string>
+	<string name="rotulo">Selecione uma opção:</string>
+	<string name="android_basico">Curso de Android Básico</string>
+	<string name="java_basico">Curso de Java Básico</string>
+	<string name="csharp_basico">Curso de C# Básico</string>
 
 </resources>
