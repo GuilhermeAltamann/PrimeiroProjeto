@@ -9,41 +9,60 @@ package com.example.primeiroprojeto;
 
 public final class R {
     public static final class array {
-        public static final int cursos=0x7f050000;
+        public static final int cursos=0x7f060000;
     }
     public static final class attr {
     }
+    public static final class color {
+        public static final int amarelo=0x7f040008;
+        public static final int azul=0x7f040000;
+        public static final int branco=0x7f040001;
+        public static final int cinza=0x7f040002;
+        public static final int laranja=0x7f040004;
+        public static final int preto=0x7f040003;
+        public static final int rosa=0x7f040006;
+        public static final int verde=0x7f040007;
+        public static final int vermelho=0x7f040005;
+    }
     public static final class drawable {
         public static final int ic_launcher=0x7f020000;
+        public static final int ic_menu_archive=0x7f020001;
+        public static final int ic_menu_attachment=0x7f020002;
+        public static final int ic_menu_delete=0x7f020003;
+        public static final int ic_menu_edit=0x7f020004;
+        public static final int ic_menu_home=0x7f020005;
+        public static final int ic_menu_more=0x7f020006;
+        public static final int ic_menu_save=0x7f020007;
+        public static final int ic_menu_search=0x7f020008;
     }
     public static final class id {
-        public static final int button1=0x7f070018;
-        public static final int button2=0x7f070019;
-        public static final int button3=0x7f07001a;
-        public static final int buttonOk=0x7f07000c;
-        public static final int buttonProximo=0x7f070002;
-        public static final int buttonVoltar=0x7f070008;
-        public static final int checkBoxAndroidBasico=0x7f07000e;
-        public static final int checkBoxCSharpBasico=0x7f070010;
-        public static final int checkBoxJavaBasico=0x7f07000f;
-        public static final int editTextNome=0x7f070001;
-        public static final int imageView1=0x7f070017;
-        public static final int listViewCursos=0x7f070015;
-        public static final int radioButtonAndroidBasico=0x7f070012;
-        public static final int radioButtonCSharpBasico=0x7f070014;
-        public static final int radioButtonJavaBasico=0x7f070013;
-        public static final int rdGroupCursos=0x7f070011;
-        public static final int spinnerCursos=0x7f070016;
-        public static final int tableRow1=0x7f070009;
-        public static final int tableRow2=0x7f07000b;
-        public static final int textView1=0x7f070004;
-        public static final int textView2=0x7f070005;
-        public static final int textView3=0x7f070006;
-        public static final int textViewAluno=0x7f070007;
-        public static final int textViewMensagem=0x7f070000;
-        public static final int textViewNome=0x7f07000a;
-        public static final int textViewResposta=0x7f070003;
-        public static final int textViewRotulo=0x7f07000d;
+        public static final int button1=0x7f080018;
+        public static final int button2=0x7f080019;
+        public static final int button3=0x7f08001a;
+        public static final int buttonOk=0x7f08000c;
+        public static final int buttonProximo=0x7f080002;
+        public static final int buttonVoltar=0x7f080008;
+        public static final int checkBoxAndroidBasico=0x7f08000e;
+        public static final int checkBoxCSharpBasico=0x7f080010;
+        public static final int checkBoxJavaBasico=0x7f08000f;
+        public static final int editTextNome=0x7f080001;
+        public static final int imageView1=0x7f080017;
+        public static final int listViewCursos=0x7f080015;
+        public static final int radioButtonAndroidBasico=0x7f080012;
+        public static final int radioButtonCSharpBasico=0x7f080014;
+        public static final int radioButtonJavaBasico=0x7f080013;
+        public static final int rdGroupCursos=0x7f080011;
+        public static final int spinnerCursos=0x7f080016;
+        public static final int tableRow1=0x7f080009;
+        public static final int tableRow2=0x7f08000b;
+        public static final int textView1=0x7f080004;
+        public static final int textView2=0x7f080005;
+        public static final int textView3=0x7f080006;
+        public static final int textViewAluno=0x7f080007;
+        public static final int textViewMensagem=0x7f080000;
+        public static final int textViewNome=0x7f08000a;
+        public static final int textViewResposta=0x7f080003;
+        public static final int textViewRotulo=0x7f08000d;
     }
     public static final class layout {
         public static final int activity_tela1=0x7f030000;
@@ -58,24 +77,24 @@ public final class R {
         public static final int scroll_activity_tela3=0x7f030009;
     }
     public static final class string {
-        public static final int aluno=0x7f040002;
-        public static final int android_basico=0x7f04000f;
-        public static final int app_name=0x7f040000;
-        public static final int botao_ok=0x7f040007;
-        public static final int botao_proximo=0x7f040006;
-        public static final int botao_voltar=0x7f04000b;
-        public static final int csharp_basico=0x7f040011;
-        public static final int curso=0x7f040003;
-        public static final int ensino=0x7f040009;
-        public static final int imagem=0x7f04000d;
-        public static final int java_basico=0x7f040010;
-        public static final int msg=0x7f040004;
-        public static final int nome=0x7f04000c;
-        public static final int ola_mundo=0x7f040001;
-        public static final int resposta=0x7f040008;
-        public static final int rotulo=0x7f04000e;
-        public static final int texto_nome=0x7f040005;
-        public static final int titulo=0x7f04000a;
+        public static final int aluno=0x7f050002;
+        public static final int android_basico=0x7f05000f;
+        public static final int app_name=0x7f050000;
+        public static final int botao_ok=0x7f050007;
+        public static final int botao_proximo=0x7f050006;
+        public static final int botao_voltar=0x7f05000b;
+        public static final int csharp_basico=0x7f050011;
+        public static final int curso=0x7f050003;
+        public static final int ensino=0x7f050009;
+        public static final int imagem=0x7f05000d;
+        public static final int java_basico=0x7f050010;
+        public static final int msg=0x7f050004;
+        public static final int nome=0x7f05000c;
+        public static final int ola_mundo=0x7f050001;
+        public static final int resposta=0x7f050008;
+        public static final int rotulo=0x7f05000e;
+        public static final int texto_nome=0x7f050005;
+        public static final int titulo=0x7f05000a;
     }
     public static final class style {
         /** 
@@ -99,10 +118,10 @@ public final class R {
     
  API 14 theme customizations can go here. 
          */
-        public static final int AppBaseTheme=0x7f060000;
+        public static final int AppBaseTheme=0x7f070000;
         /**  Application theme. 
  All customizations that are NOT specific to a particular API-level can go here. 
          */
-        public static final int AppTheme=0x7f060001;
+        public static final int AppTheme=0x7f070001;
     }
 }

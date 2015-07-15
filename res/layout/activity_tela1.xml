@@ -2,13 +2,15 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical" >
+    android:orientation="vertical"
+    android:background="@color/preto" >
 
     <TextView
         android:id="@+id/textViewMensagem"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/msg" />
+        android:text="@string/msg" 
+        android:textColor="@color/vermelho"/>
 
     <EditText
         android:id="@+id/editTextNome"
@@ -16,8 +18,9 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="textPersonName"
-        android:text="@string/texto_nome" >
-
+        android:text="@string/texto_nome" 
+        android:textColor="@color/vermelho">
+	
         <requestFocus />
     </EditText>
 
@@ -25,12 +28,14 @@
         android:id="@+id/buttonProximo"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/botao_ok" />
+        android:text="@string/botao_ok" 
+        android:textColor="@color/vermelho"/>
 
     <TextView
         android:id="@+id/textViewResposta"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/resposta" />
+        android:text="@string/resposta" 
+        android:textColor="@color/vermelho"/>
 
 </LinearLayout>
