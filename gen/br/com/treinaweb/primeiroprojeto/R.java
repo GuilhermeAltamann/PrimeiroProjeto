@@ -7,6 +7,8 @@
 
 package br.com.treinaweb.primeiroprojeto;
 
+import android.view.View;
+
 public final class R {
     public static final class array {
         public static final int cursos=0x7f050000;
@@ -53,9 +55,11 @@ public final class R {
         public static final int activity_tela5=0x7f030004;
         public static final int activity_tela6=0x7f030005;
         public static final int activity_tela7=0x7f030006;
+        public static final int activity_tela8=0x7f030007;
         public static final int grid_activity_tela3=0x7f030007;
         public static final int relative_activity_tela3=0x7f030008;
         public static final int scroll_activity_tela3=0x7f030009;
+
     }
     public static final class string {
         public static final int aluno=0x7f040002;
@@ -105,4 +109,5 @@ public final class R {
          */
         public static final int AppTheme=0x7f060001;
     }
+
 }
