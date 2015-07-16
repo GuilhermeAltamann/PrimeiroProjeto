@@ -14,7 +14,7 @@ public class Tela8 extends Activity {
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
-        getMenuInflater().inflate(R.menu.activity_tela1, menu);
+      //  getMenuInflater().inflate(R.menu.activity_tela1, menu);
         return true;
     }
 }
